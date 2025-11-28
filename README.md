@@ -186,13 +186,6 @@ isort src/
 | **Testing** | None | Comprehensive pytest suite |
 | **Documentation** | Basic README | Detailed guides and examples |
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [contributing guide](CONTRIBUTING.md) for details.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## �‍💻 Creator
 
@@ -207,3 +200,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 *Built with ❤️ using modern Python and JAX*
+
